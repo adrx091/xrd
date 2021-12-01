@@ -1,0 +1,19 @@
+{
+  "name": "xrd-painel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "author": "SATIZ",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "chalk": "^5.0.0",
+    "puppeteer": "^12.0.1",
+    "readline-sync": "^1.4.10",
+    "yarn": "^1.22.17"
+  }
+}
